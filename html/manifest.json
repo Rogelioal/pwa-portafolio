@@ -1,0 +1,29 @@
+{
+  "name": "virtual-folio",
+  "short_name": "Portafolio",
+  "description": "Bienvenid@s a Portafolio",
+  "background_color": "#8A2BE2",
+  "theme_color": "#8A2BE2",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./imagenes/1.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./imagenes/2.jpg",
+      "sizes": "44x44",
+      "type": "image/png"
+    },
+    {
+      "src": "./imagenes/3.jpg",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
